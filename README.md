@@ -1,1 +1,1 @@
-# nft-marketplace
+# FYNDIT
